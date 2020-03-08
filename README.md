@@ -1,4 +1,4 @@
-## <Search Food 사이트> 
+## ========== Search Food 사이트 ==========
 
 ## Edamam's Recipe Search API(https://developer.edamam.com/edamam-docs-recipe-api)
 
